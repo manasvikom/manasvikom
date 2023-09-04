@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\Entities",
+    "\\Helpers",
+    "\\Models",
+    "\\Models\\Users"
+  ],
+  "SelectedNode": "\\Helpers\\AutoMapperProfile.cs",
+  "PreviewInSolutionExplorer": false
+}
